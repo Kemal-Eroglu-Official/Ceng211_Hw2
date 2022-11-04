@@ -88,7 +88,7 @@ public class Interface {
                     break;
                 case 6: 
                     if (v.getClass().equals(Bicycle.class) {
-                        list.add(null)
+                        list.add(new Bicycle(v));
                     } 
                     break;
             }
